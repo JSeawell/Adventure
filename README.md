@@ -12,6 +12,15 @@ An adventure-type game, written in C
 > 5. Type the command: `adventure` to run the *adventure* program
 > 6. Find the End Room to win the game
 
+## How the game works:
+> - buildrooms creates a new directory inside the working directory
+> - Inside that directory, seven rooms are created
+> - The name of each room is chosen randomly from a list of ten possible names
+> - Each room has:
+> - - Name
+> - - Type (start, end, or mid)
+> - - Between 3 and 6 outbound connections (to other rooms)
+
 ## Example run:
 > `$ chmod +x makeBoth`  
 > `$ makeBoth`  
@@ -39,6 +48,6 @@ An adventure-type game, written in C
 > Office  
 > Den  
 
-## What I learned:
+## Concepts learned:
 > hfkdhfdhk
 
