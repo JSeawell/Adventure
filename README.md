@@ -23,15 +23,15 @@ An adventure-type game, written in C
 > CURRENT LOCATION: Bsmt  
 > POSSIBLE CONNECTIONS: Attic, Bdrm, Ktchn, Garage.  
 > WHERE TO? >`Attic`  
->
+>  
 > CURRENT LOCATION: Attic  
 > POSSIBLE CONNECTIONS: Bsmt, Garage, Bdrm, Office.  
 > WHERE TO? >`Office`  
->
+>  
 > CURRENT LOCATION: Office  
 > POSSIBLE CONNECTIONS: Attic, Bdrm, Garage, Den.  
 > WHERE TO? >`Den`  
-
+>  
 > YOU HAVE FOUND THE END ROOM. CONGRATULATIONS!  
 > YOU TOOK 4 STEPS. YOUR PATH TO VICTORY WAS:  
 > Bsmt  
