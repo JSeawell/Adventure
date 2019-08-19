@@ -13,31 +13,31 @@ An adventure-type game, written in C
 > 6. Find the End Room to win the game
 
 ## Example run:
-> `$ chmod +x makeBoth`
-> `$ makeBoth`
-> `$ buildrooms`
-> `$ adventure`
-> CURRENT LOCATION: Ktchn
-> POSSIBLE CONNECTIONS: Bsmt, Bdrm, Den.
-> WHERE TO ? \>`Bsmt`
-> CURRENT LOCATION: Bsmt
-> POSSIBLE CONNECTIONS: Attic, Bdrm, Ktchn, Garage.
-> WHERE TO? >`Attic`
+> `$ chmod +x makeBoth`  
+> `$ makeBoth`  
+> `$ buildrooms`  
+> `$ adventure`  
+> CURRENT LOCATION: Ktchn  
+> POSSIBLE CONNECTIONS: Bsmt, Bdrm, Den.  
+> WHERE TO ? \>`Bsmt`  
+> CURRENT LOCATION: Bsmt  
+> POSSIBLE CONNECTIONS: Attic, Bdrm, Ktchn, Garage.  
+> WHERE TO? >`Attic`  
 >
-> CURRENT LOCATION: Attic
-> POSSIBLE CONNECTIONS: Bsmt, Garage, Bdrm, Office.
-> WHERE TO? >`Office`
+> CURRENT LOCATION: Attic  
+> POSSIBLE CONNECTIONS: Bsmt, Garage, Bdrm, Office.  
+> WHERE TO? >`Office`  
 >
-> CURRENT LOCATION: Office
-> POSSIBLE CONNECTIONS: Attic, Bdrm, Garage, Den.
-> WHERE TO? >`Den`
+> CURRENT LOCATION: Office  
+> POSSIBLE CONNECTIONS: Attic, Bdrm, Garage, Den.  
+> WHERE TO? >`Den`  
 
-> YOU HAVE FOUND THE END ROOM. CONGRATULATIONS!
-> YOU TOOK 4 STEPS. YOUR PATH TO VICTORY WAS:
-> Bsmt
-> Attic
-> Office
-> Den
+> YOU HAVE FOUND THE END ROOM. CONGRATULATIONS!  
+> YOU TOOK 4 STEPS. YOUR PATH TO VICTORY WAS:  
+> Bsmt  
+> Attic  
+> Office  
+> Den  
 
 ## What I learned:
 > hfkdhfdhk
