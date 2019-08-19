@@ -8,7 +8,7 @@ An adventure-type game, written in C
 > wkhehf
 
 ## Example run:
-> 
+> kh
 
 ## What I learned:
 > hfkdhfdhk
