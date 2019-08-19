@@ -1,11 +1,15 @@
 # Adventure
+
+> CS-344 (Operating Systems I) Program
+
 An Adventure-type game, written in C
 
-> ## How to compile:
+## How to compile and run:
 > wkhehf
 
-> ## How to run:
-> ekhfkdhf
+## Example run:
+> 
 
-> ## What I learned:
+## What I learned:
 > hfkdhfdhk
+
