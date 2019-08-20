@@ -55,7 +55,7 @@ An adventure-type game, written in C
 > Attic  
 > Office  
 > Den  
-> $  
+> `$`  
 
 ## Concepts learned/used:
 > - Concurrency
