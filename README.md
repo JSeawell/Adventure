@@ -10,7 +10,6 @@ An adventure-type game, written in C
 > 3. Type the command: `makeBoth` to run the makefile
 > 4. Type the command: `buildrooms` to run the *buildrooms* program
 > 5. Type the command: `adventure` to run the *adventure* program
-> 6. Find the end room to win the game
 
 ## How the game works:
 > *buildrooms* creates a new directory inside the working directory
