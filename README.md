@@ -57,7 +57,7 @@ An adventure-type game, written in C
 > Den  
 > `$`  
 
-## Concepts learned/used:
+## Tech and/or concepts learned/used:
 > - Concurrency
 > - Threads
 > - Mutexes
