@@ -10,7 +10,7 @@ An adventure-type game, written in C
 > 3. Type the command: `makeBoth` to run the makefile
 > 4. Type the command: `buildrooms` to run the *buildrooms* program
 > 5. Type the command: `adventure` to run the *adventure* program
-> 6. Find the End Room to win the game
+> 6. Find the end room to win the game
 
 ## How the game works:
 > *buildrooms* creates a new directory inside the working directory
@@ -20,9 +20,8 @@ An adventure-type game, written in C
 >   - a Name (randomly chosen)  
 >   - Between 3 and 6 random outbound connections (to other rooms)  
 >   - a Type (start(1), end(1), or mid(5))  
-
 > The *buildrooms* program will make all these connections
-
+>
 > The *adventure* program activates the game  
 > The player always starts in the START_ROOM  
 > The object of the game is to find the END_ROOM, by following the possible connections  
