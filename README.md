@@ -63,5 +63,5 @@ An adventure-type game, written in C
 > - Mutexes
 > - File Access in C
 > - C strings
-> - gdb debugger and valgrind
+> - Debugging with gdb and valgrind
 
