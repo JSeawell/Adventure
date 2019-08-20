@@ -25,6 +25,8 @@ An adventure-type game, written in C
 > - The player always starts in the START_ROOM  
 > - The object of the game is to find the END_ROOM, by following the possible connections  
 >   - If the user tries to go to an invalid room, they will find themself unsuccessful  
+> - At any time, instead of choosing a new room, the user can type: `time`  
+>   - This creates a new thread, which will display the current date and time, and write that timestamp to a new file, called `currentTime.txt`.  
 > - When the game is over, the user will be shown his/her path to victory  
 
 ## Example run:
