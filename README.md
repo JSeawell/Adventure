@@ -56,6 +56,11 @@ An adventure-type game, written in C
 > Office  
 > Den  
 
-## Concepts learned:
-> hfkdhfdhk
+## Concepts learned/used:
+> - Concurrency
+> - Threads
+> - Mutexes
+> - File Access in C
+> - C strings
+> - gdb debugger and valgrind
 
