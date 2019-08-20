@@ -22,10 +22,10 @@ An adventure-type game, written in C
 > The *buildrooms* program will make all these connections
 >
 > The *adventure* program activates the game  
-> The player always starts in the START_ROOM  
-> The object of the game is to find the END_ROOM, by following the possible connections  
-> If the user tries to go to an invalid room, they will find themself unsuccessful  
-> When the game is over, the user will be shown his/her path to victory  
+> - The player always starts in the START_ROOM  
+> - The object of the game is to find the END_ROOM, by following the possible connections  
+>   - If the user tries to go to an invalid room, they will find themself unsuccessful  
+> - When the game is over, the user will be shown his/her path to victory  
 
 ## Example run:
 > `$ chmod +x makeBoth`  
