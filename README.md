@@ -12,7 +12,7 @@ An adventure-type game, written in C
 > 5. Type the command: `adventure` to run the *adventure* program
 
 ## How the game works:
-> *buildrooms* creates a new directory inside the working directory
+> The *buildrooms* program creates a new directory inside the working directory
 > - Inside that directory, seven rooms are created
 > - The name of each room is chosen randomly from a list of ten possible names
 > - Each room has:  
@@ -55,6 +55,7 @@ An adventure-type game, written in C
 > Attic  
 > Office  
 > Den  
+> $  
 
 ## Concepts learned/used:
 > - Concurrency
