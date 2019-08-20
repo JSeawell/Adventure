@@ -17,16 +17,17 @@ An adventure-type game, written in C
 > - Inside that directory, seven rooms are created
 > - The name of each room is chosen randomly from a list of ten possible names
 > - Each room has:  
->   - Name  
->   - Between 3 and 6 outbound connections (to other rooms)  
->   - Type (start, end, or mid)
-> The *buildrooms* will make all these connections
+>   - a Name (randomly chosen)  
+>   - Between 3 and 6 random outbound connections (to other rooms)  
+>   - a Type (start(1), end(1), or mid(5))  
 
-> The *adventure* program activates the game
-> The player always starts in the START_ROOM
-> The object of the game is to find the END_ROOM, by following the possible connections
-> If the user tries to go to an invalid room, they will find themself unsuccessful
-> When the game is over, the user will be shown his/her path to victory
+> The *buildrooms* program will make all these connections
+
+> The *adventure* program activates the game  
+> The player always starts in the START_ROOM  
+> The object of the game is to find the END_ROOM, by following the possible connections  
+> If the user tries to go to an invalid room, they will find themself unsuccessful  
+> When the game is over, the user will be shown his/her path to victory  
 
 ## Example run:
 > `$ chmod +x makeBoth`  
