@@ -18,7 +18,7 @@ An adventure-type game, written in C
 > - Each room has:  
 >   - a Name (randomly chosen)  
 >   - Between 3 and 6 random outbound connections (to other rooms)  
->   - a Type \[start(1), end(1), or mid(5)\]  
+>   - a Type (start\[1\], end\[1\], or mid\[5\])  
 > The *buildrooms* program will make all these connections
 >
 > The *adventure* program activates the game  
