@@ -58,6 +58,7 @@ An adventure-type game, written in C
 > `$`  
 
 ## Tech and/or concepts learned/used:
+> - C language
 > - Concurrency
 > - Threads
 > - Mutexes
